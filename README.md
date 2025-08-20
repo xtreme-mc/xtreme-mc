@@ -3,16 +3,6 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://linktr.ee/xtreme.mc10">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Linktree-darkgreen?style=for-the-badge&logo=linktree&logoColor=white">
-  </a>  
-  <a href="https://instagram.cm/xtreme.mc10">
-    <img alt="Static Badge" src="https://img.shields.io/badge/instagram-magenta?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://youtube.com/@xtreme_mc">
-    <img alt="Static Badge" src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <br>
   <img src="https://komarev.com/ghpvc/?username=xtreme-mc&style=flat-square&color=blue" alt=""/>
   <br>
   <h1>Hey there !
